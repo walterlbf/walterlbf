@@ -1,7 +1,5 @@
 <h1 align="center">Olá, <dev/> Meu nome é Walter Freitas</h1>
-<h3 align="center">Sou estudante de Front-end e Back-end!</h3>
-
-<p align="center"><img align="center" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"></p>
+<h3 align="center">Sou estudante de desenvolvimento FullStack na Trybe</h3>
 
 
 - 👋 Sou **Formado em Egenharia Quimica pela AEMS**
