@@ -1,21 +1,7 @@
 <h1 align="center">Olá, <dev/> Meu nome é Walter Freitas</h1>
 <h3 align="center">Sou estudante de desenvolvimento FullStack na Trybe</h3>
 
-
-- 👋 Sou **Formado em Egenharia Quimica pela AEMS**
-
-- 🔭 No momento estou estudando **React**
-
-- 🇺🇸 Nível de Ingês: **Intermediate**
-
-- 💼 No nomento estou procurando por uma vaga de emprego como **Dev FullStack Junior**
-
-- 📫 Entre em contato **walter.lbf.f@gmail.com**
-
-- ⚡ Curiosidade: Estou sempre disposto pra uma **Aventura**
-
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walterlbf&show_icons=true&theme=radical)
 
 <h3 align="center">Redes Sociais:</h3>
 <p align="center">
