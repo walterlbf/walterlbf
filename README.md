@@ -8,7 +8,7 @@
 
 - 🇺🇸 Nível de Ingês: **Intermediate**
 
-- 💼 Procurando por uma vaga de emprego como **Dev Front-end Junior**
+- 💼 No nomento estou procurando por uma vaga de emprego como **Dev FullStack Junior**
 
 - 📫 Entre em contato **walter.lbf.f@gmail.com**
 
