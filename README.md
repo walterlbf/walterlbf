@@ -4,8 +4,6 @@
 
 - 👋 Sou **Formado em Egenharia Quimica pela AEMS**
 
-- 🌱 Sou estudante de desenvolvimento de sofware na **Trybe** 
-
 - 🔭 No momento estou estudando **React**
 
 - 🇺🇸 Nível de Ingês: **Intermediate**
