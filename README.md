@@ -1,8 +1,6 @@
 <h1 align="center">Olá, <dev/> Meu nome é Walter Freitas</h1>
 <h3 align="center">Sou estudante de desenvolvimento FullStack na Trybe</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walterlbf&show_icons=true&theme=radical)
-
 <h3 align="center">Redes Sociais:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/walterlbfreitas/" target="blank"><img align="center" src="https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" alt="walterfreitas" height="30" width="40" /></a>
