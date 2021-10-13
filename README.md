@@ -53,7 +53,4 @@
     <a href="https://www.linkedin.com/in/walterlbfreitas/" target="_blank"><img height="24" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
     </h2>
   </div>
-   <h2>🐍 My commits being devoured 😨🤭
-      <img width="100%" src="https://github.com/walterlbf/walterlbf/blob/output/github-contribution-grid-snake.svg">
-   </h2>
 </footer>
