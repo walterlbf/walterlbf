@@ -6,9 +6,10 @@
       <td>
         <p>🙋‍♂️ Sou o Walter Freitas, um brasileiro desenvolvedor web apaixonado por tecnologia.
         <ul>
-          <li>🔭 Atualmente sou estudante na
+          <li>🔭 Sou desenvolvedor Full Stack formato pela 
             <a href="https://www.betrybe.com/" target="_blank"> Trybe </a>
-          <li>🌱 Atualmente estou aprimorando os estudos em Node.js, MySQL e MongoDB.</li>
+            e estou em busca da minha primeira oportunidade como desenvolvedor júnior
+          <li>🌱 Atualmente estou aprimorando meu conhecimentos em Front End com NextJS.</li>
         </ul>
       </td>
     </tr>
