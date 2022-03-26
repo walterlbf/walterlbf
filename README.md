@@ -10,6 +10,7 @@
             <a href="https://www.betrybe.com/" target="_blank"> Trybe </a>
             e estou em busca da minha primeira oportunidade como desenvolvedor júnior
           <li>🌱 Atualmente estou aprimorando meu conhecimentos em Front End com NextJS.</li>
+          <li>🌱 Atualmente estou participando de uma aceleração para aprimorar meus conhecimentos em Java .</li>
         </ul>
       </td>
     </tr>
