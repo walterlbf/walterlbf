@@ -4,13 +4,13 @@
   <table border="0">
       <tr>
       <td>
-        <p>🙋‍♂️ Sou o Walter Freitas, um brasileiro desenvolvedor web apaixonado por tecnologia.
+        <p>🙋‍♂️ Sou o Walter, um brasileiro desenvolvedor web apaixonado por tecnologia.
         <ul>
-          <li>🔭 Sou desenvolvedor Full Stack formato pela 
+          <li>🔭 Sou desenvolvedor Full Stack formado pela 
             <a href="https://www.betrybe.com/" target="_blank"> Trybe </a>
             e estou em busca da minha primeira oportunidade como desenvolvedor júnior
-          <li>🌱 Atualmente estou aprimorando meu conhecimentos em Front End com NextJS.</li>
-          <li>🌱 Atualmente estou participando de uma aceleração para aprimorar meus conhecimentos em Java .</li>
+          <li>🌱 Entusiasta de WordPress + Elementor.</li>
+          <li>🌱 Estou tirando uma certificação em UX Design.</li>
         </ul>
       </td>
     </tr>
