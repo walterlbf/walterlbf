@@ -26,6 +26,7 @@
   <div style="display: inline_block"><br>
     <a href="https://github.com/walterlbf/">
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
+      <img align="center" alt="css" height="42" width="42" src="https://github.com/user-attachments/assets/5f57f293-85ab-4c4f-a052-2272be62fa25">
       <img align="center" alt="css" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
       <img align="center" alt="css" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
       <img align="center" alt="css" height="36" width="36" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
