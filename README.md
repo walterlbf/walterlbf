@@ -7,7 +7,6 @@
         <p>🙋‍♂️ Sou o Walter, um brasileiro desenvolvedor web apaixonado por tecnologia.
         <ul>
           <li>🌱 Entusiasta de WordPress + Elementor.</li>
-          <li>🌱 Estou tirando uma certificação em UX Design.</li>
         </ul>
       </td>
     </tr>
