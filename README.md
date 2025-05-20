@@ -6,9 +6,6 @@
       <td>
         <p>🙋‍♂️ Sou o Walter, um brasileiro desenvolvedor web apaixonado por tecnologia.
         <ul>
-          <li>🔭 Sou desenvolvedor Full Stack formado pela 
-            <a href="https://www.betrybe.com/" target="_blank"> Trybe </a>
-            e estou em busca da minha primeira oportunidade como desenvolvedor júnior
           <li>🌱 Entusiasta de WordPress + Elementor.</li>
           <li>🌱 Estou tirando uma certificação em UX Design.</li>
         </ul>
