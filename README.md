@@ -1,10 +1,10 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there 
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Olá! 
 
 <header>
   <table border="0">
       <tr>
       <td>
-        <p>🙋‍♂️ Sou o Walter, um brasileiro desenvolvedor web apaixonado por tecnologia.
+        <p>🙋‍♂️ Sou o Walter, desenvolvedor web.
         <ul>
           <li>🌱 Entusiasta de WordPress + Elementor.</li>
         </ul>
